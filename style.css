@@ -1,0 +1,13 @@
+body{
+  background-color:#130f40;
+}
+.preview{
+  background-color:#ffffff;
+  min-height: 400px;
+}
+#editor{
+  min-height:400px;
+}
+.preview img{
+  max-width: 100%;
+}
